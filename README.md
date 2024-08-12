@@ -74,6 +74,9 @@ O mesmo consiste em um cadastro de produtor rural com os seguintes dados:
 - instala as dependências: `yarn` || `npm install`
 
 - comando: yarn||npx prisma generate
+- Após isso podemos executar o projeto com ou sem build
+  - Com Build: `yarn build` || `npm run build` && `yarn start` || `npm run start`
+  - Sem Build: `yarn dev` || `npm run dev` 
 
 ## Endpoint da aplicação:
 
